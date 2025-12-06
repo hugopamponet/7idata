@@ -1,0 +1,14 @@
+.container {
+    background-color: var(--azulEscuro);
+    width: 100%;
+    margin-top: 3rem;
+    font-family: var(--font-family-primary);
+    color: var(--branco);
+}
+
+.textoFooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+}
